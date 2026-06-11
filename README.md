@@ -82,6 +82,12 @@ mungnyang-care/
 │   └── models/
 │       └── .gitkeep
 │
+├── notebooks/
+│   ├── dataset_crop.ipynb
+│   ├── dataset_preprocessing.ipynb
+│   ├── model_training.ipynb
+|
+|
 ├── docs/
 │   ├── flowchart.png
 │   ├── app_home.png
