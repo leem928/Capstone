@@ -324,6 +324,7 @@ Validation 및 Test 데이터에는 Resize, Tensor 변환, Normalize만 적용�
 ---
 
 ## 14. 모델 학습 흐름
+<img width="1177" height="458" alt="flowchart" src="https://github.com/user-attachments/assets/5bdb861b-f95c-476b-9358-48e1071918de" />
 
 ```text
 AI Hub 데이터 다운로드
