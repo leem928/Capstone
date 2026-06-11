@@ -699,7 +699,7 @@ app/lib/secrets/kakao_keys.dart
 
 ## 28. 참고 자료
 
-* [AI Hub - 반려동물 피부질환 데이터 (데이터셋 번호 561)]([https://www.aihub.or.kr/](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&searchKeyword=%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%20%ED%94%BC%EB%B6%80%20%EC%A7%88%ED%99%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0&aihubDataSe=data&dataSetSn=561))
+* [AI Hub - 반려동물 피부질환 데이터 (데이터셋 번호 561)]((https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&searchKeyword=%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%20%ED%94%BC%EB%B6%80%20%EC%A7%88%ED%99%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0&aihubDataSe=data&dataSetSn=561))
 * [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 * [TorchVision Documentation](https://pytorch.org/vision/stable/index.html)
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
