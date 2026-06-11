@@ -699,11 +699,17 @@ app/lib/secrets/kakao_keys.dart
 
 ## 28. 참고 자료
 
-* AI Hub. 반려동물 피부질환 데이터. 데이터셋 번호 561.
-* PyTorch Documentation
-* TorchVision Documentation
-* Scikit-Learn Documentation
-* OpenCV Documentation
-* Flutter Documentation
-* Firebase Documentation
-* Kakao Developers Documentation
+* [AI Hub - 반려동물 피부질환 데이터 (데이터셋 번호 561)]([https://www.aihub.or.kr/](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&searchKeyword=%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%20%ED%94%BC%EB%B6%80%20%EC%A7%88%ED%99%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0&aihubDataSe=data&dataSetSn=561))
+* [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+* [TorchVision Documentation](https://pytorch.org/vision/stable/index.html)
+* [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+* [OpenCV Documentation](https://docs.opencv.org/)
+* [Flutter Documentation](https://docs.flutter.dev/)
+* [Firebase Documentation](https://firebase.google.com/docs)
+* [Kakao Developers Documentation](https://developers.kakao.com/docs)
+
+## 29. 모델 파일
+
+모델 가중치 파일(.pth)은 GitHub 용량 제한으로 인해 별도 저장소에 업로드하였다.
+
+* Best Model: [[Google Drive 링크](https://drive.google.com/drive/folders/1i7EXbK7-L9CBAFmnwiuvNxwPnuZERnES)]
